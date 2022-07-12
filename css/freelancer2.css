@@ -58,23 +58,21 @@ hr.star-primary:after {
 .etiquetas{
     margin-top: 5%;
     
+
+    
 }
 
-#caja_user{
-    border: 0;
+.cajas{
+    border: none;
     background-color: #a9cce3;
     border-bottom: solid rgb(87, 131, 253) 3px;
     /*  border-radius: 10px;*/
     width: 40%;
     
     margin-bottom: 5%;
+    outline: none;
 }
-#caja_p{
-    border: 0;
-    background-color: #a9cce3;
-    border-bottom: solid rgb(87, 131, 253) 3px;
-    width: 40%;
-}
+
 
 #caja_cu,
 #caja_n,
